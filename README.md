@@ -1,10 +1,9 @@
-# Hi, I'm gitipedras 👋
+# Hi, I'm Zion8992
 
-I just develop for fun.  
-My biggest project is [textcat](https://github.com/gitipedras/textcat) — built with Go (I'm a pro) and some JavaScript (it kinda sucks, but I tried!).  
+I make projects in go and python, just for fun :) 
+My favorite project is [textcat](https://github.com/zion8992/textcat), built with Go.
+
 Some of projects:
-- [minetest-whitelister](https://github.com/gitipedras/minetest-whitelister)
-
-Check out my YouTube: [@greatbigdiamond](https://www.youtube.com/@greatbigdiamond)
+- [Textcat Telesto Client](https://github.com/zion8992/textcat-telesto-client)
 
 <!-- Minimal is good. Code is better. -->
