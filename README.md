@@ -1,8 +1,11 @@
-# Hi, Im Zion8992
-I love making my apps in Go (the best programming language in the galaxy)
+# Hello
+I am `zion8992`, an experienced Go developer. <br>
+<br>
+As of `May 2nd 2026`: <br>
+- Contributor to the Cubyz Wiki, 
+- The only front end developer for [cubyz.net](https://cubyz.net) 
+- The developer of [ironite](https://github.com/zion8992/ironite), a server list for Cubyz.
 
-## Spotlight Projects
-[My Firefox Homepage](https://github.com/zion8992/startpage)
-
-## Blog
-Will be live soon at [zion8992.pedras.org](https://zion8992.pedras.org).
+**Repositories**:
+[IRONITE - Server list for Cubyz](https://github.com/zion8992/ironite)
+[FIREFOX HOMEPAGE ADDON - Homepage addon for firefox](https://github.com/zion8992/startpage)
