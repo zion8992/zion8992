@@ -1,14 +1,18 @@
-# Hello
-I am `zion8992`, an ~~experienced~~ new Go developer. <br>
-Ive been programming since young. <br>
-<br>
-As of `July 15th 2026`: <br>
-- Contributor to the [Cubyz Wiki](https://wiki.cubyz.net), 
-- The developer of [ironite](https://github.com/zion8992/ironite), a server list for Cubyz.
-- The developer of [cubyz one](https://github.com/zioon8992/cubyzone), a decentralized authentication service for Cubyz
+### `$ whoami`
 
-[Cubyz Website](https://cubyz.net).
+I'm `zion8992`, the founder of Zonomic. <br>
 
-**Repositories**:
-[IRONITE - Server list for Cubyz](https://github.com/zion8992/ironite)
-[FIREFOX HOMEPAGE ADDON - Homepage addon for firefox](https://github.com/zion8992/startpage)
+### `$ ls tech-stack/`
+```
+total 3.14159262
+zion zion 2025  86% Go
+zion zion 2026   5% Rust (Learning)
+zion zion 2023 100% HTML
+zion zion 2025  60% Go Hugo (static site generator)
+```
+
+### `$ cat projects --sort=size`
+
+1. [Freecord](https://codeberg.org/zion8992/freecord) - Drop-in Discord replacement
+2. [Cubyz](https://github.com/pixelguys/cubyz) - Minecraft, but it's WAYYY better and open source
+3. [Cubyz Wiki](https://github.com/pixelguys/cubyz-wiki) - The wiki for Cubyz
